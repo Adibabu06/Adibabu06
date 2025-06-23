@@ -14,30 +14,46 @@
 
 ## 🔐 Featured Projects
 
-### 🔒 [Cybersecurity Simulation](https://github.com/Adibabu06/Cybersecurity-Simulation)
+### 🔒 [Cybersecurity Simulation](https://github.com/Adibabu06/Assignment-4)
 Simulated phishing, SQL injection, and brute-force attacks.  
 ✅ Implemented MFA & salting to reduce breach success by 50%  
 🛠️ Python • Wireshark • Kali Linux
 
-### 🏡 [Realtors – Property Booking Platform](https://github.com/Adibabu06/Realtors)
+### 🏡 [Realtors – Property Booking Platform](https://github.com/Adibabu06/Assignment-4)
 Full-stack Django app with admin CRUD, booking system, and user auth.  
 ✅ Achieved 98% test coverage and <500ms page load  
 🛠️ Django • SQLite • UI/UX • Python
 
-### 🕹️ [Unity Game Suite](https://github.com/Adibabu06/Unity-Games)
-Pacman, Bubble POP & NBA game simulations built in Unity with C#  
+### 💡 [IoTBay Device Catalogue](https://github.com/beattelljuice/IoTBay)
+Collaborative project for IoTBay – built device catalogue and user access modules.  
+✅ Staff role access, rent/buy options, responsive Bootstrap layout  
+🛠️ ASP.NET Core • MVC • C# • SQL Server
+
+### 🕹️ Unity Game Suite  
+(Private/Not Uploaded)  
+Pacman, Bubble POP & NBA simulators built in Unity with C#  
 ✅ Custom animation, collision logic, and game mechanics  
 🛠️ Unity • C# • OOP
 
-### ☁️ [AWS LAMP Stack Deployment](https://github.com/Adibabu06/AWS-LAMP)
+### ☁️ AWS Cloud LAMP Deployment  
+(Coming soon – to be uploaded)  
 Deployed cloud-based LAMP app using AWS Elastic Beanstalk + RDS  
 ✅ Built custom VPC, implemented CI/CD, scaled across availability zones  
 🛠️ AWS • Apache • MySQL • PHP
 
 ---
 
+## 🧪 Labs & Coursework
+
+- [Lab Week 4 – Git Practice](https://github.com/Adibabu06/labweek4-git)  
+- [iOS Task Manager (AT3_IOS group repo)](https://github.com/Dan-Gabb-UTS/AT3_IOS)  
+- [ISD Coursework – Team Repo 1](https://github.com/yashs-12/ISD-41025)  
+- [ISD Coursework – Team Repo 2](https://github.com/Shin-nie/ISD-41025)
+
+---
+
 ## 📫 Let's Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/aditya-saha-babun-972416278/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/aditya-saha-babun-aab3b7371/)
 - 📧 [Email](mailto:adityasaha2012.as@gmail.com)
 
 Thanks for stopping by! 🚀
